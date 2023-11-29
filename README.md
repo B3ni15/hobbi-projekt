@@ -1,7 +1,6 @@
 # Hobbi Web Projekt
-<center>
+
 ![image](https://github.com/B3ni15/hobbi-projekt/assets/90302291/1b6b791b-4e0a-4672-b995-cefafc3b4cee)
-</center>
 
 ## Feladat 💢
 
