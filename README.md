@@ -1,1 +1,20 @@
-# hobbi-projekt
+# Hobbi Web Projekt
+<center>
+![image](https://github.com/B3ni15/hobbi-projekt/assets/90302291/1b6b791b-4e0a-4672-b995-cefafc3b4cee)
+</center>
+
+## Feladat 💢
+
+- Egy weboldalt kell csinálni amiben minden olyan dolog megtalálható amit
+  eddig vettünk programozásból.
+    - Táblázatok
+    - Felsorolások
+    - Képek
+    - CSS
+- Jól nézzen ki.
+
+## Források 🌟
+
+  - https://www.w3schools.com/
+  - https://www.web-leb.com/
+  - https://www.github.com/
