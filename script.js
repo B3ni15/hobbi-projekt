@@ -1,5 +1,5 @@
 const textToType = `
-Üdv a weboldalon, felhasználó! Köszöntelek a weboldalon nézz körbe és köszönöm ha ídőt forítasz a weboldalra! Továbbió szép napot!`;
+Üdv, felhasználó! Köszöntelek a weboldalon nézz körbe és köszönöm ha ídőt forítasz a weboldalra! További szép napot!`;
 
     let currentText = '';
     let index = 0;
