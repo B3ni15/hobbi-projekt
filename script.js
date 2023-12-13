@@ -1,5 +1,3 @@
-//const nev = prompt("Add meg a neved:")
-
 const textToType = `
 Üdv! Köszöntelek a weboldalon nézz körbe és köszönöm ha ídőt fordítasz a weboldalra! További szép napot!`;
 
