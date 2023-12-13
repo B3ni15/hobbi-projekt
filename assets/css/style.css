@@ -863,12 +863,6 @@ header .container {
     border: 1px solid var(--onyx-1);
     border-radius: 4px;
   }
-
-
-
-  /**
-   * HERO
-   */
    
   .hero .container {
     max-width: 950px;
@@ -882,21 +876,9 @@ header .container {
 
   .btn-group { gap: 20px; }
 
-
-
-  /**
-   * NEW PRODUCT, ABOUT, EXPLORE PRODUCT, TOP SELLER
-   */
-
   .product-list,
   .about-list,
   .top-seller-list { grid-template-columns: repeat(3, 1fr); }
-
-
-
-  /**
-   * FOOTER
-   */
 
   .footer-top .container {
     display: flex;
@@ -925,42 +907,15 @@ header .container {
 }
 
 
-
-
-
-/**
- * responsive for larger than 1200px screen
- */
-
 @media (min-width: 1200px) {
 
-  /**
-   * CUSTOM PROPERTY
-   */
-
   :root {
-
-    /**
-     * typography
-     */
 
     --fs-1: 55px;
 
   }
 
-
-
-  /**
-   * REUSED STYLE
-   */
-
   .container { max-width: 1150px; }
-
-
-
-  /**
-   * HEADER
-   */
 
   .header-right,
   .header-nav-wrapper { flex-grow: 1; }
@@ -1009,12 +964,6 @@ header .container {
   .navbar-link:hover::after,
   .navbar-link:focus::after { --scaleY: scaleY(1); }
 
-
-
-  /**
-   * HERO
-   */
-
   .hero .container {
     max-width: 1150px;
     gap: 50px;
@@ -1023,21 +972,9 @@ header .container {
   .hero-title,
   .hero-text { margin-bottom: 35px; }
 
-
-
-  /**
-   * NEW PRODUCT, ABOUT, EXPLORE PRODUCT, TOP SELLER
-   */
-
   .product-list,
   .about-list,
   .top-seller-list { grid-template-columns: repeat(4, 1fr); }
-
-
-
-  /**
-   * ABOUT
-   */
 
   .about-card {
     display: flex;
@@ -1046,13 +983,7 @@ header .container {
     justify-content: space-between;
     align-items: center;
   }
-
-
-
-  /**
-   * FOOTER
-   */
-
+  
   .footer-list { min-width: 180px; }
 
 }
