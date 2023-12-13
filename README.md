@@ -12,6 +12,10 @@
     - CSS
 - Jól nézzen ki.
 
+## Alap ötlet 
+
+- Egy olyan webooldalt szeretnék létre hozni ami foglalkozik a programozással, tehát olyan részek vannak benne amik utalnak erre.
+
 ## Források 🌟
 
   - https://www.w3schools.com/
