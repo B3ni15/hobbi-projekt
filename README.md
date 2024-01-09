@@ -21,6 +21,7 @@
   - https://www.w3schools.com/
   - https://www.web-leb.com/
   - https://www.github.com/
+  - https://huntools-bot.xyz/
 
 
 ## Végleges idő a weboldal elkészítéséhez: 
