@@ -1,14 +1,14 @@
 @font-face {
     font-family: Gotham;
-    src: url(/fonts/HomepageBaukasten-Bold.woff2) format('woff2'),
-         url(/fonts/HomepageBaukasten-Bold.woff) format('woff'),
-         url(/fonts/HomepageBaukasten-Bold.ttf) format('truetype'),
-         url(/fonts/HomepageBaukasten-Bold.eot) format('embedded-opentype');
+    src: url(./fonts/HomepageBaukasten-Bold.woff2) format('woff2'),
+         url(./fonts/HomepageBaukasten-Bold.woff) format('woff'),
+         url(./fonts/HomepageBaukasten-Bold.ttf) format('truetype'),
+         url(./fonts/HomepageBaukasten-Bold.eot) format('embedded-opentype');
 }
 
 @font-face {
     font-family: Gotham-ok;
-    src: url(/fonts/Gotham\ Medium.otf) format('opentype');
+    src: url(.//fonts/Gotham/Medium.otf) format('opentype');
 }
 
 body {
@@ -124,7 +124,7 @@ background-clip: text;
     margin: 0 auto;
     margin-top: 10px;
     margin-bottom: 10px;
-    background-image: url(images/83e74a65-f84a-47d6-ae7c-0c2939426d1f.png);
+    background-image: url(./images/83e74a65-f84a-47d6-ae7c-0c2939426d1f.png);
     background-size: cover;
 }
 
