@@ -49,45 +49,45 @@ nav {
 }
 
 .kek-text {
-background: linear-gradient(86deg,#1067ED 10%,#55C2C4 100%);
-background-clip: text;
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
+    background: linear-gradient(86deg,#1067ED 10%,#55C2C4 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .lila-text {
-background: linear-gradient(86deg,#3e0a92 10%,#5560c4 100%);
-background-clip: text;
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
+    background: linear-gradient(86deg,#3e0a92 10%,#5560c4 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .sarga-text {
-background: linear-gradient(86deg,#e8b71a 10%,#c4550a 100%);
-background-clip: text;
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
+    background: linear-gradient(86deg,#e8b71a 10%,#c4550a 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .kek2-text {
-background: linear-gradient(86deg,#0400ff 10%,#2264c7 100%);
-background-clip: text;
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
+    background: linear-gradient(86deg,#0400ff 10%,#2264c7 100%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
 }
 
 .zold-text {
-background: linear-gradient(86deg,#0a8e0a 10%,#0a8e0a 100%);
-background-clip: text;
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
+    background-clip: text;
+    background: linear-gradient(86deg,#0a8e0a 10%,#0a8e0a 100%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
 }
 
 .orange-text {
-background: linear-gradient(86deg,#ff8c00 10%,#643803 100%);
-background-clip: text;
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
+    background-clip: text;
+    background: linear-gradient(86deg,#ff8c00 10%,#643803 100%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
 }
 
 
