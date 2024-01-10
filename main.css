@@ -12,10 +12,10 @@
 }
 
 body {
-background: #1A1423;
-color: #fff;
-font-family: Gotham;
-overflow-x: hidden;
+    color: #fff;
+    background: #1A1423;
+    overflow-x: hidden;
+    font-family: Gotham;
 }
 
 .page {
@@ -89,8 +89,6 @@ nav {
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
 }
-
-
 
 .main {
     text-align: center;
